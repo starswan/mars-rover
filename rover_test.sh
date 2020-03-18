@@ -1,0 +1,1 @@
+python3 Rover.py <rover_data.txt
